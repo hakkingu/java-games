@@ -1,4 +1,4 @@
-# SnakeG
+# snakeG
 Snake Game made with java! 
 
 
