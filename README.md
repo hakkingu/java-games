@@ -1,5 +1,3 @@
-# snakeG
-Snake Game made with java! 
+# Java Games~
 
-
-Could be better, but honestly, it was just for fun. 
+I'll upload every game that I made with Java in this repository. Hopefully, it will be helpful to you in some way~
